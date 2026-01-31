@@ -15,9 +15,9 @@ jobs:
       - name: Build EXE
         run: |
           cd "Laboratorio_Metodo_KD"
-          pyinstaller --noconsole --onefile --name "Tutor_KD_Windows" Laboratorio_Tutor_KD.py
+          pyinstaller --noconsole --onefile --name "Calculadora_Metodo_KD_Windows" Calculadora_Metodo_KD.py
       - name: Upload EXE
         uses: actions/upload-artifact@v4
         with:
           name: Ejecutable_Windows
-          path: Laboratorio_Metodo_KD/dist/Tutor_KD_Windows.exe
+          path: Laboratorio_Metodo_KD/dist/Calculadora_Metodo_KD_Windows.exe
