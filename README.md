@@ -3,7 +3,10 @@
 ![Licencia](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-green.svg)
 ![Campo](https://img.shields.io/badge/Campo-Ingeniería_Estructural-orange.svg)
-](https://doi.org/10.5281/zenodo.18445774)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18445774.svg)](https://doi.org/10.5281/zenodo.18445774)
+
+**Referencia oficial:** [https://doi.org/10.5281/zenodo.18445774](https://doi.org/10.5281/zenodo.18445774)
+
 
 ## 📌 Introducción
 Este repositorio documenta el desarrollo y la implementación del **Método k/D**, un algoritmo predictivo diseñado para transformar ángulos sexagesimales a radianes mediante la identificación de familias geométricas, eliminando la dependencia del cálculo reactivo por Máximo Común Divisor (MCD).
