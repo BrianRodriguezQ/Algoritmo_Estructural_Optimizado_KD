@@ -37,7 +37,7 @@ Para un ángulo de $850^\circ$, el algoritmo detecta la familia $D = 3.6$.
 ## 📦 Descargas (Releases)
 ¿No tienes Python? No hay problema. Puedes descargar la versión ejecutable para tu sistema operativo:
 * 📥 [Descargar para Windows (.exe)](enlace-a-tu-release)
-* 📥 [Descargar para Linux](enlace-a-tu-release)
+* 📥 [Descargar para Linux] https://github.com/BrianRodriguezQ/Algoritmo_Estructural_Optimizado_KD/releases/download/v1.0.0/Calculadora_KD_Linux
 
 ---
 **Autor:** Ing. Brian A. Rodriguez Q.  
